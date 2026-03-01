@@ -84,8 +84,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.28505291005291006,
-      "y": 0.8027777777777778,
+      "x": 0.2810846560846561,
+      "y": 0.8111111111111111,
       "uniqueID": "id-35715",
       "name": "Control Board",
       "topLevel": false,
@@ -220,8 +220,8 @@
         },
         {
           "atomType": "ExtractTag",
-          "x": 0.8518518518518517,
-          "y": 0.7361111111111112,
+          "x": 0.7513227513227513,
+          "y": 0.7527777777777778,
           "uniqueID": "id-35722",
           "name": "Extract Tag",
           "ioValues": [
@@ -313,7 +313,8 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 15
+                  "ioValue": 20,
+                  "currentEquation": "20"
                 }
               ]
             },
@@ -522,8 +523,8 @@
             },
             {
               "atomType": "Extrude",
-              "x": 0.21031746031746032,
-              "y": 0.8,
+              "x": 0.21428571428571427,
+              "y": 0.7777777777777777,
               "uniqueID": "id-38698",
               "ioValues": [
                 {
@@ -3509,7 +3510,8 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 10
+                  "ioValue": -10,
+                  "currentEquation": "-10"
                 }
               ]
             },
@@ -3567,8 +3569,8 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 15,
-                  "currentEquation": "15"
+                  "ioValue": 20,
+                  "currentEquation": "20"
                 }
               ]
             },
