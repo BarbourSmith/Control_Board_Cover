@@ -2,8 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|New Item|10|$0.00||
-|10mm M3 Bolt|7|$0.00||
-|1.25in screw|13|$0.00||
 |5mm M3 Bolt|3|$0.00||
-|Total: |33|$0.00| |
+|1.25in screw|3|$0.00||
+|Total: |6|$0.00| |
