@@ -223,8 +223,8 @@
         },
         {
           "atomType": "Export",
-          "x": 0.8677248677248678,
-          "y": 0.7994428969359332,
+          "x": 0.8617724867724867,
+          "y": 0.7743732590529249,
           "uniqueID": "id-45846",
           "ioValues": [
             {
@@ -2780,10 +2780,6 @@
                     {
                       "name": "Angle",
                       "ioValue": 120
-                    },
-                    {
-                      "name": "Shape",
-                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
