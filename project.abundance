@@ -2229,7 +2229,7 @@
               "ioValues": [
                 {
                   "name": "diameter",
-                  "ioValue": 115
+                  "ioValue": 116
                 }
               ]
             },
@@ -2780,6 +2780,10 @@
                     {
                       "name": "Angle",
                       "ioValue": 120
+                    },
+                    {
+                      "name": "Shape",
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
